@@ -1,12 +1,12 @@
 {
     "main": [{
         "name": "Beginner",
-        "description": "You have now officially started your Geometry Dash grind! By beating 13 Easy Demons you are well prepared to continue down the list!",
+        "description": "You have now officially started your Geometry Dash grind! By beating 11 Beginner Wave Challenges you are well prepared to continue down the list!",
         "sprite": "DP_Beginner",
         "plusSprite": "DP_BeginnerPlus",
         "saveID": "beginner",
-        "levelIDs": [65765662, 3543219, 63087691, 9864147, 80433444, 105383537, 7116121, 75603568, 1360404, 17235008, 38514054, 76564776, 89652282, 96973689, 123617195, 8660411, 116591597, 68061608, 104151099, 15619194, 114703942, 106696944, 111286661, 2997354, 82622155, 27912428, 81742215, 70444933, 77428474, 72810041],
-        "reqLevels": 13,
+        "levelIDs": [69272418, 67058715, 68073068, 68128541, 56491894, 75354898, 62067491, 142163491, 72936013, 67938608, 45417766, 62250556, 59510706, 61524563, 67628887, 46016708, 72467954, 41560546, 62524548, 24426577, 78528931, 75873131, 71835450, 61514366, 72794284, 61460345, 76878758, 76588930],
+        "reqLevels": 11,
         "textEffects": {
             "textColor": [0, 134, 168],
             "gradientColor": [0, 255, 228],
